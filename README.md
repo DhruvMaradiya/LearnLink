@@ -10,6 +10,10 @@ Course Reviews & Ratings: Learners can rate and review courses and tutors to hel
 Learning Path Creation: Educators can design custom learning paths for students.
 Discussion Forums: Community forums for sharing knowledge, resources, and ideas.
 
+
+Architecture
+![image](https://github.com/user-attachments/assets/b437cdfb-4ae2-422e-8da0-7742670401c2)
+
 ## Tech Stack
 Frontend: React, Tailwind CSS, TypeScript, MaterialUI
 Backend: Node.js, Express, MongoDB
